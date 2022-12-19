@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dozandeh
+- 👋 Hi, I’m @Douzandeh
 - 👀 I’m interested in Front-end Developeing
 - 🌱 I’m currently learning Javascript concept
 - 💞️ I’m looking to collaborate on building responsive websites
