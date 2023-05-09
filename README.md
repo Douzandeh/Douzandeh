@@ -1,6 +1,6 @@
 ![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Hossein Douzandeh</h1>
-<p align="center">I am Hossein, I am a young and creative ideator, I work in the field of front-end development and I am very interested in this work. And I love coding, it's like fun for me I like to have different experiences in my work field
+<p align="center">I am a young and creative ideator, I work in the field of front-end development and I am very interested in this work. And I love coding, it's like fun for me I like to have different experiences in my work field
 And I am interested in improving day by day in this field and learning different subjects
 I imagine that in the future humans will have interstellar life and that excites me</p>
 <h3 align="center">A passionate frontend developer from Iran</h3>
