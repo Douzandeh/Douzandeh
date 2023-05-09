@@ -9,7 +9,7 @@ I imagine that in the future humans will have interstellar life and that excites
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js , Typscript ,Tailwindcss**
+- 🌱 I’m currently learning ** React ,Tailwindcss**
 
 - 💬 Ask me about **javascript**
 
