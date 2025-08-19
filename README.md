@@ -21,9 +21,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <span style="margin: 0 10px;"></span>
-  <a href="https://github.com/Douzandeh">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <span style="margin: 0 10px;"></span>
   <a href="mailto:douzandeh.k@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
