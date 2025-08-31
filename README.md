@@ -5,30 +5,24 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=6d28d9&font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Hossein+Douzandeh!;+Front-End+Developer;+React+Enthusiast" />
 </h1>
+
 <hr/>
+
 <h3 align="center">Front-End Developer | Javascript | React</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**  
+- 💬 Ask me about **Javascript, REST API**  
+- 📫 How to reach me → [LinkedIn](https://www.linkedin.com/in/hossein-douzandeh-a89821257/)  
+- ⚡ Fun fact: I love coffee ☕ and coding late at night  
 
-- 💬 Ask me about **Javascript, REST API**
-
-- 📫 How to reach me  https://www.linkedin.com/in/hossein-douzandeh-a89821257/
-
-- ⚡ Fun fact I love coffee ☕ and coding late at night
-
- <div align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/hossein-douzandeh-a89821257/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <span style="margin: 0 10px;"></span>
-  <span style="margin: 0 10px;"></span>
   <a href="mailto:douzandeh.k@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-
-
 
 <hr/>
 
@@ -36,14 +30,15 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,vite,npm,git,github,figma,xd,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,vite,webpack,babel,npm,git,github,figma,xd,vscode" />
 </div>
 
 <br/>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<br/>
+
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Douzandeh&count_private=true&theme=buefy-dark&border_radius=10&ring=6D28D9&fire=6D28D9" alt="streak stats"/>
 
@@ -51,5 +46,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douzandeh&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10" alt="top langs" />
 </div>
+
 <br/><br/>
 <hr/>
